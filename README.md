@@ -11,6 +11,8 @@ https://github.com/FiloSottile/mkcert/releases/download/v1.4.4/mkcert-v1.4.4-lin
 
 https://github.com/FiloSottile/mkcert/releases/download/v1.4.4/mkcert-v1.4.4-windows-amd64.exe
 
+I don't make any copyright claims about mkcert.
+
 
 LINUX
 
