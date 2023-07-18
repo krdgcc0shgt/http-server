@@ -69,4 +69,4 @@ You have node.js
 
 You have python
 - HTTPS
-  - bin/http-server.ph
+  - bin/http-server.py
