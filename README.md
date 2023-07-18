@@ -61,6 +61,13 @@ Same procedure as above but change the executable file!
 # <M-Up>Running the server
 
 You have node.js
+
+Requires http-server package, which you can install using:
+
+```
+npm install http-server
+```
+
 - HTTP
   - bin/http-server.sh
 - HTTPS
